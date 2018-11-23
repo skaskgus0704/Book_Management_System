@@ -12,8 +12,8 @@
 		<ul class="links">
 			<li><a href="#">Generic</a></li>
 			<li><a href="#">Elements</a></li>
-			<li><a href="#">Log In</a></li>
-			<li><a href="#">Sign Up</a></li>
+			<li><a href="index.jsp?section=member_login.jsp">LogIn</a></li>
+			<li><a href="#">SignUp</a></li>
 		</ul>
 		<a href="#" class="close">Close</a>
 	</div>

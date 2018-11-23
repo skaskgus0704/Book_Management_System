@@ -10,13 +10,11 @@
 		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
 	</head>
 	<body class="is-preload">
-
-		<!-- Page Wrapper -->
-			<div id="page-wrapper">
 				<!-- Header -->
 					<header id="header" class="alt">
 						<jsp:include page="main_header.jsp"/>
 					</header>
+		<div id="page-wrapper">
 				<!-- Menu -->
 					<nav id="menu">
 						<jsp:include page="main_nav.jsp"/>

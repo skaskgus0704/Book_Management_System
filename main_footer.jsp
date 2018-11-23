@@ -10,9 +10,10 @@
 	<section id="footer">
 		<div class="inner">
 			<ul class="copyright">
-				<li>&copy; Untitled Inc. All rights reserved.</li><li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
+				<li>We always try to make fast and good programs. Thank you for using it today.</li>
+				<li>&copy; Developer NamNaHyun. All rights reserved.</li>
 			</ul>
 		</div>
 	</section>
 </body>
-</html>
+</html> 

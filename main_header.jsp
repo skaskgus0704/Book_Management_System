@@ -7,7 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-	<a class="icon fa-book" href="index.jsp">Book Management System</a>
+	<a class="icon fa-book" href="index.jsp"> Book Management System</a>
 	<h1><a href="index.html">Solid State</a></h1>
 	<nav>
 		<a href="#menu">Menu</a>
